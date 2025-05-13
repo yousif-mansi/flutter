@@ -145,6 +145,7 @@ dev_dependencies:
   lints: 4.0.0
   flutter_test:
     sdk: flutter
+    collection: ^1.17.0
 
 
 flutter_launcher_icons:
