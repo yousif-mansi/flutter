@@ -47,6 +47,7 @@ dependency_overrides:
   win32: ^2.6.1
 
 dev_dependencies:
+  shared_preferences: ^2.0.15
   flutter_lints: ^1.0.0
   image: ^3.2.2
   flutter_test:
