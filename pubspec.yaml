@@ -36,9 +36,10 @@ dependencies:
   cupertino_icons: ^1.0.0
 
 dependency_overrides:
-  http: ^1.2.2
+  http: ^0.13.5
   uuid: ^4.0.0
   win32: ^2.6.1
+
 
 dev_dependencies:
   flutter_launcher_icons: ^0.13.1
