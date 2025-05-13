@@ -42,9 +42,8 @@ dependency_overrides:
 
 dev_dependencies:
   flutter_launcher_icons: ^0.13.1
-  flutter_lints: ^4.0.0
+  flutter_lints: ^1.0.0
   image: ^4.2.0
-  lints: ^4.0.0
   flutter_test:
     sdk: flutter
 
