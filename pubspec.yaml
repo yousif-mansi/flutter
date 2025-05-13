@@ -39,7 +39,7 @@ dependencies:
   stream_transform: ^2.1.0
   from_css_color: ^2.0.0
   json_path: ^0.7.2
-  timeago: ^3.6.1
+  timeago: ^3.5.0
 
 dependency_overrides:
   http: ^0.13.5
